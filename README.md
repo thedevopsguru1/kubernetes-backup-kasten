@@ -44,4 +44,7 @@ spec:
 ```
 backup.anaeleboo.com/my-kasten/
 ```
-##### To generate the basicAuth username and password , use this : https://hostingcanada.org/htpasswd-generator/
+### To generate the basicAuth username and password , use this : 
+```
+https://hostingcanada.org/htpasswd-generator/
+```
