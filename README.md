@@ -40,4 +40,7 @@ spec:
               number: 8000
  
 ```
-##### Need to setup Cert
+#### Use this url
+```
+backup.anaeleboo.com/my-kasten/
+```
