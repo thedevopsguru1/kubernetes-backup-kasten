@@ -46,6 +46,9 @@ spec:
 ```
 #### Use this url
 ```
+url/release-name/
+```
+```
 backup.anaeleboo.com/my-kasten/
 ```
 ### To generate the basicAuth username and password , use this : 
